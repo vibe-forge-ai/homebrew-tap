@@ -1,8 +1,8 @@
 class VibeForge < Formula
   desc "AI-assisted development framework CLI"
   homepage "https://github.com/vibe-forge-ai/vibe-forge.ai"
-  url "https://registry.npmjs.org/@vibe-forge/cli/-/cli-1.0.1.tgz"
-  sha256 "cc3992d84090cbce3eb30b49c49af87a119442ee5af3a4c5009a0dfd4abb68e3"
+  url "https://registry.npmjs.org/@vibe-forge/cli/-/cli-3.1.0.tgz"
+  sha256 "fce67d84e903e07db84b1a7c8f7ae68e3b92c9dd42ef0fdd1f0be18faa02095c"
   license "MIT"
 
   depends_on "node"
